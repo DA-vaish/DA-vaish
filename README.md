@@ -19,11 +19,10 @@ I'm passionate about turning raw data into business insights that drive decision
 - ✈️ **Airline Revenue Forecasting** – Improved accuracy by 20%
 - 👥 **Employee Attrition Analysis** – Helped reduce attrition with key insights
 
-### 📫 Let's Connect
-- 🔗 - [LinkedIn](https://www.linkedin.com/in/vaishnavi15aug)
-- 📧 vaish.dax@gmail.com
-- 🌍 Currently based in Pune, India
+### 🧩 Let's Connect
 
----
+- [LinkedIn](https://www.linkedin.com/in/vaishnavi15aug)
+- 📧 vaish.dax@gmail.com  
+- 🌍 Currently based in Pune, India
 
 ✨ *Always curious. Always learning. Always analyzing.* 
