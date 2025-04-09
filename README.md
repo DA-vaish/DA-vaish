@@ -20,9 +20,10 @@ I'm passionate about turning raw data into business insights that drive decision
 - 👥 **Employee Attrition Analysis** – Helped reduce attrition with key insights
 
 ### 🧩 Let's Connect
-
 - [LinkedIn](https://www.linkedin.com/in/vaishnavi15aug)
 - 📧 vaish.dax@gmail.com  
 - 🌍 Currently based in Pune, India
 
-✨ *Always curious. Always learning. Always analyzing.* 
+✨ *Always curious. Always learning. Always analyzing.*
+
+
